@@ -1,3 +1,6 @@
 .*
 !.gitignore
 target
+
+# intelliJ project files
+*.iml
