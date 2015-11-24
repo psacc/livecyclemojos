@@ -5,7 +5,7 @@
 	<groupId>com.bealearts.livecycle</groupId>
 	<artifactId>livecyclemojos</artifactId>
 	<packaging>pom</packaging>
-	<version>1.0.0</version>
+	<version>1.0.0-SNAPSHOT</version>
 
 	<name>LiveCycleMojos Maven Plugin</name>
 	<description>Maven Plugin to produce an Adobe LiveCycle Archive (LCA) from source files.</description>
